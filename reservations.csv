@@ -1,0 +1,17 @@
+person_name,class_type,flight_type,ticket_price,company,location,destination,date,stopover
+Despina Florin,first class,one-way,250,TAROM,Bucharest,Craiova,10-03-2022,-
+Alin Lupu,first class,one-way,180,Qatar Airways,Qatar,London,09-03-2022,Bucharest
+Aver Nom,first class,one-way,290,Emirates,Dubai,Paris,07-03-2023,Athens
+Avram Iancu,first class,one-way,300,Emirates,Paris,Oslo,09-03-2022,-
+Nicu Cazanesti,first class,one-way,300,Emirates,Paris,Oslo,29-06-2022,-
+Vlad Dracula,first class,round-trip,220,TAROM,Craiova,Madrid,09-03-2022,-
+Iosif Jelp,second class,one-way,180,Qatar Airways,Qatar,London,12-03-2022,Bucharest
+Mardos Xerx,second class,one-way,180,Qatar Airways,Qatar,London,15-03-1941,Bucharest
+Despina Florin,first class,one-way,250,Emirates,Istanbul,Berlin,16-04-2022,Bucharest
+Despina Cosmin,first class,one-way,310,Wizz Air,Madrid,Lisbon,12-03-2022,-
+Alin Lupu,first class,round-trip,140,Emirates,Paris,Dubai,19-08-2022,-
+George Popescu,first class,one-way,250,Emirates,Istanbul,Berlin,28-06-2022,Bucharest
+Donul G,first class,one-way,180,Qatar Airways,Qatar,London,25-03-2022,Bucharest
+Dona V,first class,round-trip,210,Qatar Airways,Qatar,Dublin,25-03-2022,Budapest
+Jan Monclair,first class,one-way,250,Emirates,Istanbul,Berlin,30-03-2022,Bucharest
+Stones Mirc,first class,one-way,250,Emirates,Istanbul,Berlin,23-09-2023,Bucharest
